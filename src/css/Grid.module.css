@@ -1,0 +1,6 @@
+.grid {
+  display: grid;
+  height: 70vh;
+  gap: 10px;
+  aspect-ratio: 1;
+}

@@ -1,0 +1,14 @@
+.result {
+  display: block;
+  font-size: xxx-large;
+}
+
+.level {
+  display: block;
+  font-size: larger;
+}
+
+.record {
+  display: block;
+  font-size: small;
+}
